@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CommonAppConfig>
+  <!--程序唯一标识-->
+  <AppIdentifier>汽车智能化-LED</AppIdentifier>
+  <!--集中管控Oracle数据库连接字符串-->
+  <SelfConnStr>Data Source=orcl;User ID=bieos_ynhq;Password=1234;Persist Security Info=False;</SelfConnStr>
+  <!--开机启动-->
+  <StartUp>false</StartUp>
+  <!--模式-->
+  <Model>true</Model>
+  <!--采样机LED-->
+  <LedIpCYJ>192.168.8.100</LedIpCYJ>
+  <!--LED1IP-->
+  <LedIp1>192.168.8.101</LedIp1>
+  <!--LED2IP-->
+  <LedIp2>192.168.8.102</LedIp2>
+  <!--LED3IP-->
+  <LedIp3>192.168.8.103</LedIp3>
+  <!--LED4IP-->
+  <LedIp4>192.168.8.104</LedIp4>
+  <!--LED5IP-->
+  <LedIp5>192.168.8.105</LedIp5>
+  <!--LED6IP-->
+  <LedIp6>192.168.8.106</LedIp6>
+  <!--采样机左边内容-->
+  <CYJLeftContent>车号:1234
+矿点:陕西</CYJLeftContent>
+  <!--采样机右边内容-->
+  <CYJRightContent>车号:123 
+矿点:陕西
+</CYJRightContent>
+  <!--LED屏1内容-->
+  <LedContent1></LedContent1>
+  <!--LED屏2内容-->
+  <LedContent2></LedContent2>
+  <!--LED屏3内容-->
+  <LedContent3></LedContent3>
+  <!--LED屏4内容-->
+  <LedContent4></LedContent4>
+  <!--LED屏5内容-->
+  <LedContent5></LedContent5>
+  <!--LED屏6内容-->
+  <LedContent6></LedContent6>
+</CommonAppConfig>
+

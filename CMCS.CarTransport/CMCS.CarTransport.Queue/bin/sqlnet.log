@@ -1,0 +1,19 @@
+
+
+***********************************************************************
+Fatal NI connect error 12546, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=orcl)(CID=(PROGRAM=D:\工作文档\豫能鹤淇\Qch_Ynhq\CMCS.CarTransport\CMCS.CarTransport.Queue\bin\CMCS.CarTransport.Queue.vshost.exe)(HOST=LAPTOP-GA5FHH78)(USER=Liufan))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 02-12月-2018 16:01:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12546
+    TNS-12546: TNS: 权限被拒绝
+    ns secondary err code: 12560
+    nt main err code: 516
+    TNS-00516: 许可被拒绝
+    nt secondary err code: 13
+    nt OS err code: 0
